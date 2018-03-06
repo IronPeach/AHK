@@ -1,0 +1,3 @@
+^Space::
+	Send, &nbsp;
+Return
